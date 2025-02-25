@@ -1,3 +1,5 @@
+Olá, sou a Ana Bricio!
+
 Sou iniciante no curso "Criando Prompts Inteligentes", com grande interesse em explorar o potencial da inteligência artificial e da linguagem natural.
 Estou motivada para aprender e colaborar com outros participantes do curso para aprimorar minhas habilidades na criação de prompts eficazes.
 Tenho estudado sobre pessoas, processos e tecnologias a fim de poder contribuir com a inovação nas empresas e tenho observado as diversas aplicações da IA em diferentes áreas.
